@@ -8,10 +8,10 @@ The benefits that can be reaped from this app can be :
 As the elders become less physical active, they can easily be seen lost in the silence. By listening to the music they can help mitigate their lonliness
 ### Encourage Movement
 Listening to the music can encourage them to clap or tap their foot thus encoraging physical movement.
-### keeping their art of singing alive
-
-
-
+### Keeping their art of singing alive
+They can record music with the special features accomodating their disabilities.
+#### Rekindling positive memories
+Music can invoke emotional memories .Elders can share their stories thus giving them chance to be social and explore others stories too.
 ## Concept 
 outline the idea and the rationale behind it. Define the project aims and audience and identify how
 your idea is diferent from / improves upon other current oferings. Identify areas of social & mobile theory
