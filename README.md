@@ -1,6 +1,17 @@
 # Team Genuis Proposal
 ## Introduction
 What is your project and what dilemma does it aim to address. 
+Music offers a multitude of benefits for people of every age,particularly for the elderly population.It has an a stouding impact on our elders.Apart from considering it as a Universal language, it helps in increasing memory functions ,relax the body ,reduce muscle tension and boost productivity.
+We have decided to create an app that can help elders listen to music and also play music.That will allow self-expression through singing ,creating ,teaching and learning music.It can help elders recover their speech through rhythmic patterns and also overcome dementia by recalling music.This app will help record them music,share their own music with society and loved ones and also play instrument of their choice along with Singing .It will help them to participate in something that brings them great joy.They can listen to music of the olden times which help trigger memories and emotions and improve their awareness and concentration.This app also aims to encourage elders to be more social. They can create and share music with each others, thus strengthening the bond between them.
+The benefits that can be reaped from this app can be :
+### Relieving Boredom
+As the elders become less physical active, they can easily be seen lost in the silence. By listening to the music they can help mitigate their lonliness
+### Encourage Movement
+Listening to the music can encourage them to clap or tap their foot thus encoraging physical movement.
+### keeping their art of singing alive
+
+
+
 ## Concept 
 outline the idea and the rationale behind it. Define the project aims and audience and identify how
 your idea is diferent from / improves upon other current oferings. Identify areas of social & mobile theory
