@@ -1,6 +1,6 @@
 hhhhhh# Team Genuis Proposal
 ## Introduction
-What is your project and what dilemma does it aim to address. 
+What is your project and
 ## Concept 
 outline the idea and the rationale behind it. Define the project aims and audience and identify how
 your idea is diferent from / improves upon other current oferings. Identify areas of social & mobile theory
